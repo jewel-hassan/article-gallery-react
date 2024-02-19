@@ -1,0 +1,19 @@
+#root {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 2rem;
+  box-sizing: border-box;
+  
+}
+.box-form{
+  line-height: 3rem;
+}
+
+.title-content{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+
